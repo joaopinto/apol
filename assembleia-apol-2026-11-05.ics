@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//APOL//Assembleia de Pais//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:assembleia-geral-20261105@orfeaodeleiria.com
+DTSTAMP:20261017T233558Z
+DTSTART:20261105T183000Z
+DTEND:20261105T200000Z
+SUMMARY:Assembleia Geral — Associação de Pais do Orfeão de Leiria
+LOCATION:Orfeão de Leiria (sala a confirmar)
+DESCRIPTION:Assembleia Geral da Associação de Pais do Orfeão de Leiria (
+ APOL). 5 de novembro de 2026\, das 18h30 às 20h00. Sala a confirmar. Se n
+ ão houver quórum às 18h30\, início às 19h00 no mesmo local\, com os a
+ ssociados presentes. Lembrete: 30 minutos antes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT30M
+DESCRIPTION:Assembleia de Pais no Orfeão de Leiria às 18h30.
+END:VALARM
+END:VEVENT
+END:VCALENDAR
